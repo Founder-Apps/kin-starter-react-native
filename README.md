@@ -10,6 +10,12 @@ cd kin-starter-react-native
 yarn install
 ```
 
+### iOS
+
+```sh
+cd ios && pod install
+```
+
 ## Usage
 
 Start the react-native 'metro' server:
